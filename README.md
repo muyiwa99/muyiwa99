@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muyiwa99
 - 👀 I’m interested in ...Front End Development 
-- 🌱 I’m currently learning ... HTML and CSS 
+- 🌱 I’m currently learning ... HTML CSS and JavaScript  
 - 💞️ I’m looking to collaborate on ... Projects and challenges 
 - 📫 How to reach me ... Muyiwa99@live.co.uk  LinkedIn- www.linkedin.com/in/muyiwa-a-223465b1
 
